@@ -1,0 +1,1 @@
+# docs.bhyi.tk-static
